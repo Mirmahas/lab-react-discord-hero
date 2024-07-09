@@ -5,6 +5,10 @@ import background from "./assets/discord-background.png";
 import "./App.css"; // Importar el archivo CSS
 
 function App() {
+  return <div className="App"></div>;
+}
+
+function App() {
   return (
     <div className="App">
       <nav className="navbar">
