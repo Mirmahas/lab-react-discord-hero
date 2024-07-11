@@ -23,7 +23,7 @@ body {
   text-align: center;
   background-color: rgb(41, 101, 236);
   color: white;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   display: flex;
   flex-direction: column;
 }
@@ -33,6 +33,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
+  background-color: rgb(41, 101, 236);
 }
 
 .navbar img {

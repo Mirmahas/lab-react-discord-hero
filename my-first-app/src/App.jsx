@@ -2,11 +2,7 @@ import React from "react";
 import logo from "./assets/discord-logo-white.png"; // Importar la imagen del logo
 import menuIcon from "./assets/menu-icon.png"; // Importar la imagen del icono de menú
 import background from "./assets/discord-background.png";
-import "./App.css"; // Importar el archivo CSS
-
-function App() {
-  return <div className="App"></div>;
-}
+import "./App.css"; // Importar el archivo CSS;
 
 function App() {
   return (
