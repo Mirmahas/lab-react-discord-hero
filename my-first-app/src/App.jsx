@@ -10,7 +10,8 @@ function App() {
 
 function App() {
   return (
-    <div className="App">
+    <div>
+      <div className="App"> </div>
       <nav className="navbar">
         <img src={logo} alt="logo blanco" />
         <img src={menuIcon} alt="menu icon" />
